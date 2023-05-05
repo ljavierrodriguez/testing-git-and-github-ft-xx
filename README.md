@@ -86,3 +86,10 @@ $ git branch <branch-name>
 ```shell
 $ git checkout -b <branch-name>
 ```
+
+### Eliminar una rama(branch)
+
+```shell
+$ git branch -D <branch-name>
+```
+
