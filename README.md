@@ -76,3 +76,20 @@ $ git remote rm <repo-name>
 ```shell
 $ git push <repo-name> <branch-name>
 ```
+
+### Crear una rama(branch) 
+
+```shell
+$ git branch <branch-name>
+```
+
+```shell
+$ git checkout -b <branch-name>
+```
+
+### Eliminar una rama(branch)
+
+```shell
+$ git branch -D <branch-name>
+```
+
